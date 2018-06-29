@@ -1,1 +1,1 @@
-# Independent-Study
+# Independent-Study-ECE592
