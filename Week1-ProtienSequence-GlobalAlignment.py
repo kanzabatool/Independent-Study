@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 29 14:38:00 2018
 
-@author: Boyoo blutus
+@author: KanzaBatool
 """
 
 from Bio import pairwise2
