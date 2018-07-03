@@ -2,7 +2,7 @@
 
 This summer course is part of the independent study offered by Prof. Mehmet Baysan from Istanbul Sehir University. During this summer study, I intend to learn enough material to make a considerable progress for my final year Master thesis of Automatically annotating cancer mutations using public databases.
 
-Week 1:Protien Sequencing and Global Alignment + implementation on sample sequence
+Week 1:Protien Sequencing and Global Alignment + implementation on sample sequence \n
 Week 2:Vcf format specifications detail study
 Week 3:Literature Review on different types of Annotations
 Week 4:Perform, generate and infer Annotation type 1
