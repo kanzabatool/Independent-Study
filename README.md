@@ -14,6 +14,6 @@ Week 9:PolyPhen Algorithm study <br />
 Week 10:PhDSNP & SNAP Algorithm study <br />
 Week 11:MutPred Machine Learning based Algorithm study <br />
 Week 12:CHASM method <br />
-Week 13:Aggregate information of publicly available databases for annotation of cancer mutations <br />
-Week 14:Identify best practices and performance evaluation for each practice <br />
+Week 13:Identify best practices and performance evaluation for each practice <br />
+Week 14:Aggregate information of publicly available databases for annotation of cancer mutations <br />
 Week 15:Formulate Thesis project implementation outline <br />
