@@ -7,5 +7,5 @@ Week 2:Vcf format specifications detail study <br />
 Week 3:Literature Review on different types of Annotations <br />
 Week 4:Aggregate information of publicly available databases for annotation of cancer mutations <br />
 Week 5:Formulate Thesis project Flowchart <br />
-Week 6:Prepare final project implementation outline <br />
+Week 6:Final Project synopsis <br />
 Week 7:*Coding starts here
